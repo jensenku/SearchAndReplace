@@ -2,7 +2,6 @@
 
 # recursive search for a POSIX or perl regexp pattern 
 # in files and sub-directories                         
-# by Andrew Eigus <aei@riga.ahlers.com> (c) 2010
 
 PATH=/bin:/usr/bin:/usr/local/bin
 
